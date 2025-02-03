@@ -74,3 +74,26 @@ int main() {
 
     return 0;
 }
+
+INPUT and OUTPUT:
+----------------
+Enter Account Number: 1234567
+Enter Account Holder's Name: navanth
+
+Bank Account System
+1. Deposit
+2. Withdraw
+3. Display Balance
+4. Exit
+Enter your choice: 1
+Enter deposit amount: 10000000000000
+Deposited: 9999999827968.00
+
+Bank Account System
+1. Deposit
+2. Withdraw
+3. Display Balance
+4. Exit
+Enter your choice: 4
+Exiting...
+
